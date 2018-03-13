@@ -1,0 +1,5 @@
+---
+video:
+    url: 'rtsp://1.1.1.1/vod/mp4:BigBuckBunny_175k.mov'
+    length: 20
+    path: '/root/VideoCapture'
